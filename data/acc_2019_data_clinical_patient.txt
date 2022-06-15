@@ -1,0 +1,1050 @@
+#Patient Identifier	Data Source	Study	Diagnosis Age	Sex	Overall Survival (Months)	Overall Survival Status
+#Identifier to uniquely specify a patient.	Data Source	Study.	Age at which a condition or disease was first diagnosed.	Sex	Overall survival in months since initial diagonosis.	Overall patient survival status.
+#STRING	STRING	STRING	NUMBER	STRING	NUMBER	STRING
+#1	10	1	1	1	1	9
+PATIENT_ID	DATA_SOURCE	STUDY	AGE	SEX	OS_MONTHS	OS_STATUS
+PD7296a	Sanger/MDACC	ACyC (Sanger unpubl.)	50.0	Male		
+PD7284a	Sanger/MDACC	ACyC (Sanger unpubl.)	49.0	Male		
+PD7286a	Sanger/MDACC	ACyC (Sanger unpubl.)	61.0	Female		
+PD7143a	Sanger/MDACC	ACyC (Sanger unpubl.)	43.0	Female		
+PD7141a	Sanger/MDACC	ACyC (Sanger unpubl.)	44.0	Female		
+PD7298a	Sanger/MDACC	ACyC (Sanger unpubl.)	59.0	Female		
+PD7288a	Sanger/MDACC	ACyC (Sanger unpubl.)	38.0	Male		
+PD7139a	Sanger/MDACC	ACyC (Sanger unpubl.)	68.0	Female		
+PD7129a	Sanger/MDACC	ACyC (Sanger unpubl.)	51.0	Male		
+PD7123a	Sanger/MDACC	ACyC (Sanger unpubl.)	43.0	Female		
+PD7135a	Sanger/MDACC	ACyC (Sanger unpubl.)	56.0	Female		
+PD7291a	Sanger/MDACC	ACyC (Sanger unpubl.)	55.0	Male		
+PD7131a	Sanger/MDACC	ACyC (Sanger unpubl.)	53.0	Female		
+PD7137a	Sanger/MDACC	ACyC (Sanger unpubl.)	52.0	Female		
+PD7283a	Sanger/MDACC	ACyC (Sanger unpubl.)	62.0	Male		
+PD7133a	Sanger/MDACC	ACyC (Sanger unpubl.)	58.0	Male		
+PD7125a	Sanger/MDACC	ACyC (Sanger unpubl.)	72.0	Female		
+PD7127a	Sanger/MDACC	ACyC (Sanger unpubl.)	55.0	Male		
+PD7144a	Sanger/MDACC	ACyC (Sanger unpubl.)	42.0	Male		
+PD7293a	Sanger/MDACC	ACyC (Sanger unpubl.)	48.0	Male		
+PD7285a	Sanger/MDACC	ACyC (Sanger unpubl.)	46.0	Male		
+PD7140a	Sanger/MDACC	ACyC (Sanger unpubl.)	58.0	Male		
+PD7297a	Sanger/MDACC	ACyC (Sanger unpubl.)	59.0	Male		
+PD7295a	Sanger/MDACC	ACyC (Sanger unpubl.)	76.0	Male		
+PD7142a	Sanger/MDACC	ACyC (Sanger unpubl.)	62.0	Male		
+PD7128a	Sanger/MDACC	ACyC (Sanger unpubl.)	42.0	Female		
+PD7138a	Sanger/MDACC	ACyC (Sanger unpubl.)	53.0	Female		
+PD7134a	Sanger/MDACC	ACyC (Sanger unpubl.)	74.0	Male		
+PD7282a	Sanger/MDACC	ACyC (Sanger unpubl.)	54.0	Male		
+PD7126a	Sanger/MDACC	ACyC (Sanger unpubl.)	71.0	Female		
+PD7290a	Sanger/MDACC	ACyC (Sanger unpubl.)	45.0	Male		
+PD7136a	Sanger/MDACC	ACyC (Sanger unpubl.)	30.0	Male		
+PD7124a	Sanger/MDACC	ACyC (Sanger unpubl.)	42.0	Male		
+PD7145a	Sanger/MDACC	ACyC (Sanger unpubl.)	51.0	Male		
+PD7130a	Sanger/MDACC	ACyC (Sanger unpubl.)	44.0	Male		
+ACYC-MSKCC_11_3318	MSK	ACyC (MSKCC unpubl.)	58.0	Female	11.0	0:LIVING
+ACYC-MSKCC_10_5342	MSK	ACyC (MSKCC unpubl.)	31.0	Female	24.7	0:LIVING
+ACYC-MSKCC_9534	MSK	ACyC (MSKCC unpubl.)	53.0	Female	6.6	0:LIVING
+ACYC-MSKCC_11_17815	MSK	ACyC (MSKCC unpubl.)	69.0	Male	1.1	0:LIVING
+ACYC-MSKCC_002020	MSK	ACyC (MSKCC unpubl.)	48.0	Male	26.5	0:LIVING
+ACYC-MSKCC_002282	MSK	ACyC (MSKCC unpubl.)	49.0	Male	8.6	0:LIVING
+ACYC-MSKCC_11_3089	MSK	ACyC (MSKCC unpubl.)	42.0	Female	11.2	0:LIVING
+ACYC-MSKCC_2000136	MSK	ACyC (MSKCC unpubl.)	40.0	Female		
+ACYC-MSKCC_4332	MSK	ACyC (MSKCC unpubl.)	52.0	Female	5.9	0:LIVING
+ACYC-MSKCC_000479	MSK	ACyC (MSKCC unpubl.)	67.0	Female	3.8	0:LIVING
+ACYC-MSKCC_4133	MSK	ACyC (MSKCC unpubl.)	85.0	Female	4.6	0:LIVING
+ACYC-MSKCC_000410	MSK	ACyC (MSKCC unpubl.)	43.0	Female	49.1	0:LIVING
+ACYC-MSKCC_007441	MSK	ACyC (MSKCC unpubl.)	53.0	Male	10.8	0:LIVING
+ACYC-MSKCC_352	MSK	ACyC (MSKCC unpubl.)	48.0	Male	43.6	1:DECEASED
+ACYC-MSKCC_111097	MSK	ACyC (MSKCC unpubl.)	37.0	Female	71.3	0:LIVING
+ACYC-MSKCC_05_6986	MSK	ACyC (MSKCC unpubl.)	75.0	Male	52.3	1:DECEASED
+ACYC-MSKCC_000609	MSK	ACyC (MSKCC unpubl.)	49.0	Female	33.7	0:LIVING
+ACYC-MSKCC_000705	MSK	ACyC (MSKCC unpubl.)	88.0	Female	65.0	1:DECEASED
+ACYC-MSKCC_122891	MSK	ACyC (MSKCC unpubl.)	73.0	Female	14.2	0:LIVING
+ACYC-MSKCC_131169	MSK	ACyC (MSKCC unpubl.)	64.0	Male	45.9	0:LIVING
+ACYC-MSKCC_002012	MSK	ACyC (MSKCC unpubl.)	50.0	Male	25.1	0:LIVING
+ACYC-MSKCC_142990	MSK	ACyC (MSKCC unpubl.)	78.0	Male	16.7	0:LIVING
+ACYC-MSKCC_6112	MSK	ACyC (MSKCC unpubl.)	43.0	Female	3.7	0:LIVING
+ACYC-MSKCC_09_4615	MSK	ACyC (MSKCC unpubl.)	53.0	Male	35.8	0:LIVING
+ACYC-MSKCC_000236	MSK	ACyC (MSKCC unpubl.)	55.0	Female	50.3	0:LIVING
+ACYC-MSKCC_065115	MSK	ACyC (MSKCC unpubl.)	34.0	Female		
+ACYC-MSKCC_10_5283	MSK	ACyC (MSKCC unpubl.)	80.0	Male	22.4	0:LIVING
+ACYC-MSKCC_007097	MSK	ACyC (MSKCC unpubl.)	56.0	Female	10.3	0:LIVING
+ACYC-MSKCC_001739	MSK	ACyC (MSKCC unpubl.)	67.0	Male	41.0	0:LIVING
+ACYC-MSKCC_990149	MSK	ACyC (MSKCC unpubl.)	39.0	Female		
+ACYC-MSKCC_002039	MSK	ACyC (MSKCC unpubl.)	64.0	Male	11.2	0:LIVING
+ACYC-MSKCC_118135	MSK	ACyC (MSKCC unpubl.)	39.0	Female	73.5	0:LIVING
+ACYC-MSKCC_07_16582	MSK	ACyC (MSKCC unpubl.)	67.0	Female	46.5	0:LIVING
+ACYC-MSKCC_09_4178	MSK	ACyC (MSKCC unpubl.)	62.0	Male	38.1	0:LIVING
+ACYC-MSKCC_3492	MSK	ACyC (MSKCC unpubl.)	48.0	Male	2.5	0:LIVING
+ACYC-MSKCC_007136	MSK	ACyC (MSKCC unpubl.)	58.0	Female	10.7	0:LIVING
+ACYC-MSKCC_11_6165	MSK	ACyC (MSKCC unpubl.)	48.0	Female	11.0	0:LIVING
+ACYC-MSKCC_148632	MSK	ACyC (MSKCC unpubl.)	74.0	Female	2.8	0:LIVING
+ACYC-MSKCC_06_2532	MSK	ACyC (MSKCC unpubl.)	83.0	Female	62.0	1:DECEASED
+ACYC-MSKCC_980452	MSK	ACyC (MSKCC unpubl.)	51.0	Male		
+ACYC-MSKCC_001947	MSK	ACyC (MSKCC unpubl.)	51.0	Male	18.7	0:LIVING
+ACYC-MSKCC_2000120	MSK	ACyC (MSKCC unpubl.)	75.0	Male		
+ACYC-MSKCC_80872	MSK	ACyC (MSKCC unpubl.)	50.0	Female	2.7	0:LIVING
+ACYC-MSKCC_2000756	MSK	ACyC (MSKCC unpubl.)	75.0	Male		
+ACYC-MSKCC_36773720	MSK	ACyC (MSKCC unpubl.)	83.0	Male		
+ACYC-MSKCC_000540	MSK	ACyC (MSKCC unpubl.)	74.0	Female	12.3	0:LIVING
+ACYC-MSKCC_001781	MSK	ACyC (MSKCC unpubl.)	72.0	Male	37.3	0:LIVING
+ACYC-MSKCC_671204	MSK	ACyC (MSKCC unpubl.)	65.0	Male		
+ACYC-MSKCC_001346	MSK	ACyC (MSKCC unpubl.)	52.0	Female	58.3	0:LIVING
+ACYC-MSKCC_002238	MSK	ACyC (MSKCC unpubl.)	29.0	Female	13.3	0:LIVING
+ACYC-MSKCC_6277	MSK	ACyC (MSKCC unpubl.)	60.0	Male	8.1	0:LIVING
+ACYC-MSKCC_002237	MSK	ACyC (MSKCC unpubl.)	46.0	Male	1.4	0:LIVING
+ACYC-MSKCC_09_12352	MSK	ACyC (MSKCC unpubl.)	72.0	Female	6.0	0:LIVING
+ACYC-MSKCC_000505	MSK	ACyC (MSKCC unpubl.)	63.0	Female	76.4	0:LIVING
+ACYC-MSKCC_128229	MSK	ACyC (MSKCC unpubl.)	80.0	Female	3.8	0:LIVING
+ACYC-MSKCC_065103	MSK	ACyC (MSKCC unpubl.)	27.0	Female		
+ACYC-MSKCC_2453	MSK	ACyC (MSKCC unpubl.)	21.0	Female	5.4	0:LIVING
+ACYC-MSKCC_006536	MSK	ACyC (MSKCC unpubl.)	70.0	Female	11.4	0:LIVING
+ACYC-MSKCC_002128	MSK	ACyC (MSKCC unpubl.)	51.0	Male	20.8	0:LIVING
+ACYC-MSKCC_000380	MSK	ACyC (MSKCC unpubl.)	38.0	Female	87.8	0:LIVING
+ACYC-MDA_AC21	MDA	ACyC (MDA 2015)	67.0	Male		
+ACYC-MDA_AC20	MDA	ACyC (MDA 2015)	70.0	Male		
+ACYC-MDA_AC03	MDA	ACyC (MDA 2015)	44.0	Male		
+ACYC-MDA_AC02	MDA	ACyC (MDA 2015)	65.0	Male		
+ACYC-MDA_AC01	MDA	ACyC (MDA 2015)	52.0	Male		
+ACYC-MDA_AC07	MDA	ACyC (MDA 2015)	43.0	Male		
+ACYC-MDA_AC06	MDA	ACyC (MDA 2015)	60.0	Male		
+ACYC-MDA_AC05	MDA	ACyC (MDA 2015)	50.0	Male		
+ACYC-MDA_AC04	MDA	ACyC (MDA 2015)	51.0	Male		
+ACYC-MDA_AC09	MDA	ACyC (MDA 2015)	47.0	Male		
+ACYC-MDA_AC08	MDA	ACyC (MDA 2015)	47.0	Male		
+ACYC-MDA_AC18	MDA	ACyC (MDA 2015)	43.0	Female		
+ACYC-MDA_AC19	MDA	ACyC (MDA 2015)	45.0	Female		
+ACYC-MDA_AC14	MDA	ACyC (MDA 2015)	57.0	Male		
+ACYC-MDA_AC15	MDA	ACyC (MDA 2015)	62.0	Male		
+ACYC-MDA_AC16	MDA	ACyC (MDA 2015)	48.0	Male		
+ACYC-MDA_AC17	MDA	ACyC (MDA 2015)	41.0	Female		
+ACYC-MDA_AC10	MDA	ACyC (MDA 2015)	53.0	Female		
+ACYC-MDA_AC11	MDA	ACyC (MDA 2015)	65.0	Female		
+ACYC-MDA_AC12	MDA	ACyC (MDA 2015)	50.0	Male		
+ACYC-MDA_AC13	MDA	ACyC (MDA 2015)	39.0	Female		
+PD3181a	Sanger/MDACC	ACyC (Sanger 2013)	62.0	Male		
+PD3193a	Sanger/MDACC	ACyC (Sanger 2013)	50.0	Male		
+PD3197a	Sanger/MDACC	ACyC (Sanger 2013)	65.0	Female		
+PD3178a	Sanger/MDACC	ACyC (Sanger 2013)	44.0	Male		
+PD3200a	Sanger/MDACC	ACyC (Sanger 2013)	39.0	Female		
+PD3191a	Sanger/MDACC	ACyC (Sanger 2013)	48.0	Male		
+PD3195a	Sanger/MDACC	ACyC (Sanger 2013)	34.0	Female		
+PD3185a	Sanger/MDACC	ACyC (Sanger 2013)	64.0	Male		
+PD3189a	Sanger/MDACC	ACyC (Sanger 2013)	43.0	Female		
+PD3208a	Sanger/MDACC	ACyC (Sanger 2013)	46.0	Female		
+PD3199a	Sanger/MDACC	ACyC (Sanger 2013)	60.0	Male		
+PD3192a	Sanger/MDACC	ACyC (Sanger 2013)	47.0	Female		
+PD3180a	Sanger/MDACC	ACyC (Sanger 2013)	73.0	Female		
+PD3184a	Sanger/MDACC	ACyC (Sanger 2013)	74.0	Female		
+PD3179a	Sanger/MDACC	ACyC (Sanger 2013)	52.0	Male		
+PD3190a	Sanger/MDACC	ACyC (Sanger 2013)	45.0	Female		
+PD3182a	Sanger/MDACC	ACyC (Sanger 2013)	47.0	Male		
+PD3194a	Sanger/MDACC	ACyC (Sanger 2013)	65.0	Female		
+PD3186a	Sanger/MDACC	ACyC (Sanger 2013)	65.0	Male		
+PD3226a	Sanger/MDACC	ACyC (Sanger 2013)	43.0	Male		
+PD3196a	Sanger/MDACC	ACyC (Sanger 2013)	66.0	Female		
+PD3188a	Sanger/MDACC	ACyC (Sanger 2013)	41.0	Female		
+PD3198a	Sanger/MDACC	ACyC (Sanger 2013)	52.0	Male		
+PD3216a	Sanger/MDACC	ACyC (Sanger 2013)	47.0	Male		
+AdCC5T	MSK	ACbC (MSKCC/Breast 2015)	66.0	Female		
+AdCC4T	MSK	ACbC (MSKCC/Breast 2015)	67.0	Female		
+AdCC2T	MSK	ACbC (MSKCC/Breast 2015)	52.0	Female		
+AdCC9T	MSK	ACbC (MSKCC/Breast 2015)	69.0	Female		
+AdCC8T	MSK	ACbC (MSKCC/Breast 2015)	53.0	Female		
+AdCC6T	MSK	ACbC (MSKCC/Breast 2015)	77.0	Female		
+AdCC32T	MSK	ACbC (MSKCC/Breast 2015)	78.0	Female		
+AdCC1T	MSK	ACbC (MSKCC/Breast 2015)	57.0	Female		
+AdCC12T	MSK	ACbC (MSKCC/Breast 2015)	63.0	Female		
+AdCC3T	MSK	ACbC (MSKCC/Breast 2015)	62.0	Female		
+AdCC11T	MSK	ACbC (MSKCC/Breast 2015)	53.0	Female		
+AdCC10T	MSK	ACbC (MSKCC/Breast 2015)	52.0	Female		
+C3070	MSK	ACyC (MSKCC unpubl.)				
+G3856	MSK	ACyC (MSKCC unpubl.)				
+C2725	MSK	ACyC (MSKCC unpubl.)				
+C2954	MSK	ACyC (MSKCC unpubl.)				
+P1849	MSK	ACyC (MSKCC unpubl.)				
+K8414	MSK	ACyC (MSKCC unpubl.)				
+T0669	MSK	ACyC (MSKCC unpubl.)				
+D3212	MSK	ACyC (MSKCC unpubl.)				
+W9012	MSK	ACyC (MSKCC unpubl.)				
+H1407	MSK	ACyC (MSKCC unpubl.)				
+H1985	MSK	ACyC (MSKCC unpubl.)				
+F6345	MSK	ACyC (MSKCC unpubl.)				
+W7869	MSK	ACyC (MSKCC unpubl.)				
+F0975	MSK	ACyC (MSKCC unpubl.)				
+F2608	MSK	ACyC (MSKCC unpubl.)				
+M9671	MSK	ACyC (MSKCC unpubl.)				
+ACYC-JHU_PGDX920T	JHU	ACyC (JHU unpubl.)	55.0	Female		
+ACYC-JHU_PGDX2881T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX910T	JHU	ACyC (JHU unpubl.)	28.0	Female		
+ACYC-JHU_PGDX912T	JHU	ACyC (JHU unpubl.)	51.0	Female		
+ACYC-JHU_PGDX916T	JHU	ACyC (JHU unpubl.)	44.0	Female		
+ACYC-JHU_PGDX1762T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX1770T	JHU	ACyC (JHU unpubl.)	71.0	Male		
+ACYC-JHU_PGDX1766T	JHU	ACyC (JHU unpubl.)	66.0	Male		
+ACYC-JHU_PGDX914T	JHU	ACyC (JHU unpubl.)	27.0	Female		
+ACYC-JHU_PGDX1772T	JHU	ACyC (JHU unpubl.)	88.0	Female		
+ACYC-JHU_PGDX1764T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX1768T	JHU	ACyC (JHU unpubl.)	68.0	Female		
+ACYC-JHU_PGDX2880T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX919T	JHU	ACyC (JHU unpubl.)	59.0	Male		
+ACYC-JHU_PGDX2882T	JHU	ACyC (JHU unpubl.)	41.0	Male		
+ACYC-JHU_PGDX921T	JHU	ACyC (JHU unpubl.)	75.0	Female		
+ACYC-JHU_PGDX2884T	JHU	ACyC (JHU unpubl.)	36.0	Female		
+ACYC-JHU_PGDX913T	JHU	ACyC (JHU unpubl.)	71.0	Male		
+ACYC-JHU_PGDX1763T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX915T	JHU	ACyC (JHU unpubl.)	47.0	Female		
+ACYC-JHU_PGDX1767T	JHU	ACyC (JHU unpubl.)	42.0	Female		
+ACYC-JHU_PGDX1771T	JHU	ACyC (JHU unpubl.)	67.0	Male		
+ACYC-JHU_PGDX1765T	JHU	ACyC (JHU unpubl.)				
+ACYC-JHU_PGDX1769T	JHU	ACyC (JHU unpubl.)	56.0	Female		
+ACYC-JHU_PGDX2883T	JHU	ACyC (JHU unpubl.)	60.0	Male		
+ACYC-FMI-01	Foundation Medicine	ACyC (FMI 2014)	39.0	Male		
+ACYC-FMI-02	Foundation Medicine	ACyC (FMI 2014)	67.0	Female		
+ACYC-FMI-03	Foundation Medicine	ACyC (FMI 2014)	61.0	Female		
+ACYC-FMI-04	Foundation Medicine	ACyC (FMI 2014)	67.0	Female		
+ACYC-FMI-05	Foundation Medicine	ACyC (FMI 2014)	57.0	Male		
+ACYC-FMI-06	Foundation Medicine	ACyC (FMI 2014)	42.0	Male		
+ACYC-FMI-07	Foundation Medicine	ACyC (FMI 2014)	67.0	Male		
+ACYC-FMI-08	Foundation Medicine	ACyC (FMI 2014)	47.0	Female		
+ACYC-FMI-09	Foundation Medicine	ACyC (FMI 2014)	67.0	Male		
+ACYC-FMI-10	Foundation Medicine	ACyC (FMI 2014)	52.0	Female		
+ACYC-FMI-11	Foundation Medicine	ACyC (FMI 2014)	45.0	Female		
+ACYC-FMI-12	Foundation Medicine	ACyC (FMI 2014)	67.0	Female		
+ACYC-FMI-13	Foundation Medicine	ACyC (FMI 2014)	46.0	Male		
+ACYC-FMI-14	Foundation Medicine	ACyC (FMI 2014)	47.0	Female		
+ACYC-FMI-15	Foundation Medicine	ACyC (FMI 2014)	56.0	Female		
+ACYC-FMI-16	Foundation Medicine	ACyC (FMI 2014)	70.0	Female		
+ACYC-FMI-17	Foundation Medicine	ACyC (FMI 2014)	74.0	Male		
+ACYC-FMI-18	Foundation Medicine	ACyC (FMI 2014)	57.0	Male		
+ACYC-FMI-19	Foundation Medicine	ACyC (FMI 2014)	79.0	Male		
+ACYC-FMI-20	Foundation Medicine	ACyC (FMI 2014)	66.0	Male		
+ACYC-FMI-21	Foundation Medicine	ACyC (FMI 2014)	63.0	Female		
+ACYC-FMI-22	Foundation Medicine	ACyC (FMI 2014)	67.0	Female		
+ACYC-FMI-23	Foundation Medicine	ACyC (FMI 2014)	49.0	Male		
+ACYC-FMI-24	Foundation Medicine	ACyC (FMI 2014)	63.0	Female		
+ACYC-FMI-25	Foundation Medicine	ACyC (FMI 2014)	46.0	Female		
+ACYC-FMI-26	Foundation Medicine	ACyC (FMI 2014)	68.0	Female		
+ACYC-FMI-27	Foundation Medicine	ACyC (FMI 2014)	58.0	Male		
+ACYC-FMI-28	Foundation Medicine	ACyC (FMI 2014)	51.0	Male		
+XRN-3XVRU7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PH6XJ6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QC7XXT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B1KBBT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-9PGQQ3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3QS2BQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-D4M7FM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-D2B0LR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PDCVLE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4M9J3D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-TV337E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B0YTN5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-L02HK7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SPT8X7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-USF3VF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RKS09C	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U33W69	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EWV284	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SSGR76	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-25V74T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DM1W40	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-J0097R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-L1H3U5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EJD0UE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HG0ES9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-CSKNSN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YU2E6S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5JFR99	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RUDS37	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QUKQTY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6HUYER	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3EBT35	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-96WYLV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-B9XDUV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-55PMVJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JYSYPJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-ETLKN8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3YDFG9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3ED0TR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-ENHJMQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-C5UCT9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X31189	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KU71FC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-TVXMGS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W13EAM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MDA5Y0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DUWB92	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YG9PJ5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WHK2R3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AV0RSH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KQ070R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QFV3EL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-66DB0F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U03E2B	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KMTT94	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-45S5PU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YX3HF7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DM0614	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BJ8P8X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7A14H3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WBYW18	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SQVCPA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HBALKM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HS74HM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-5K32Q7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3F4C55	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UVL3FN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3L1DY4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VXN26N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1WQ5V8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BG55NQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Y3WU4X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SY1FLL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BENHL1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-8SAG4N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Y1A6R5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-17LU1M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YU5W0J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QT0F02	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XSSYM5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G92BC7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P8A047	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-R9E4M9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2FK377	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QHYGE6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HF67GQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RQB4V1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-D9GFB7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FS7TBE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VHUWDF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JQCECQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-F9YVXW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SH3N2X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MTXP8P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-70WRY7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GYPY72	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DPD0NK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M3V48G	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PTJ8QY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KQWD7J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RKTW2Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PTQ6PQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U9JWD9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NJHQUS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LD54DE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3241LB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BT9QTE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-UHCHYH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-9LYEY4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KUJU34	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WY3B7J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-CYL2TH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5N14N5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5XFKJF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DH1V3S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7RXJPQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MMA3YS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MSJERB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YLFRCJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VB2RXA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-64D9DQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FP94C3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BN2MW9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SH5YD5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BWDBMX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WWQDHR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QMLL9V	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VQJYC3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-NJD0DH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FPMHN9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PYGJ70	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3WXHSM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-CDMJPF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DXLUW3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Y8B3S0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PJ0QCX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PRA7TP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-S4KNAB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1N2796	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4KWL2T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YJA4KD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8HQ1S9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Q5H7W5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AANAT8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XMNWE5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PYKT7W	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RBP79H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SW8VC2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DBH56G	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CEXVCY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JUDA9W	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NH3SM4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G8TW9A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-12J6CD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PRDG29	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-424SWW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FVYY7W	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B9ALTG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-J4P1YW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X4J6RF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PG5FPU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-K3RXPV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HR1C2Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FGMPHN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DLVLR4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EM31XE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4TBR67	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5FFH3Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-ARJ98F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4MS6GJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1N3FNJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-W6LGLT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KEF5HC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7AAS23	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RDWPFF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7DVRC7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5LFLH1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-487AMD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7TPASQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YUXXAL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RW01C5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-F1MM8R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1TLDYD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-Y1GJHU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EXY7U8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UYQBGA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-ARY8UK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MCT9TX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WGN1N4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-XSJ80F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6BK0ET	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HSEWQH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1URE8L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HLWLNP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UNAC0D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-A7M9BF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YA73HG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-8U3MWQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-VAPFFW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YGS3RT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W9X55B	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-V7VFH6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7THY8Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TH0PMT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6TBJ9Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HVUXKP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BLQLT0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-L0K3G6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MH0YE6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Q6CVTK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YVYAFS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TSYX80	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YYBV9S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-REFSPC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M1VJ4Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PBVFSD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X9Y1JK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TY1TPU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Q88GAF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MN5Q4X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M8Q4GV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FH64RQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-G0BEML	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1Q09GL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-65MTLT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6YJULH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-17HWGA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VCUEF6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WNAQ9N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B476QG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CX0U2P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X90RCT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EA7QSS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KGEJR8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3UL6M1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Q4YG10	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-V2GW72	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XQ8S3A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RHB1TW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TJGR6N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5NUV26	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-V2QDEY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CLCP1F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HWEYMM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4EFU56	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P6679L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LQ4PEJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LY9CWS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-G5WHJJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-JW5D4E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UT1Q21	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MQTAAP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SH3LTP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-69CXVW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PY7XGW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-Q858DL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-8NN65Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WPBR02	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-F5Q4FD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-APPD0J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-V0CDA7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-X6WC68	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GHDSJH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UWBF6L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EAYFBT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B15CTK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1WY2F7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-JSHB8N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7EEP0M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P480VM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MFQ05V	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3WNDTD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W56AKK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SP16XJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QKRBAB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-M5SAX1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YCTV4B	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-JNN5UL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-63T0S4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DE337P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P4YUXU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SWJBWD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7W8BX8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5ANP4T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4KPHB0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4CULP7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GUW0ST	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-W7S5TR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4K1Y24	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-716EQH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PJ80LE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-U461ER	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-37399H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-267GPG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-E8E14T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2HVD82	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QM3QDG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X08SBX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3DDYCR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6BSPAM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6AX1HC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PFXN53	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4C4G0A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-J2G88X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-N3TWHK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GBJPFV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-640RDM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EL64B2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-ATGEL3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KKQ9H8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XBTHWQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3CUDBC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-66HP64	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7Y45HM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-UFQV9P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6L6UFP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-16BB9A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DYUWWB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-K1LADM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WB1YGF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-8XULXY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MGHWJF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-K2XTX6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QSD4C6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T4R8JK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T7KFWN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-GA2WXQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XHN1JG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AFS76G	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HB61K6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-A6MEPR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UF8RR8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BH8HCS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-TDG920	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-64M9ND	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HGKDNP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1788CF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MWMBY9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QJJFNV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-C3UYT6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HWUT0C	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SK07KR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-759SA6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-X56Y8R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RV5WXT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-J8KXQQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LYG602	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5JA7W9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GLE3RD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-GC6SHF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SXL2UF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-A2FR70	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-A4GE4X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WEALX0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2PV054	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-90C4UT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-U3EKT3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-S2G0RD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PH1JAX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QBMQKU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-45R169	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X5X3TB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-B30SWU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-607ACB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-TX5V70	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6V9BMH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2XG3E7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-46UK0C	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-85U3YU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LVBFQ6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Q4YJUF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6BURJJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-62MX20	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VW13JX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NWBW3E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-11FPP4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WHP8BK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-98WE8Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-D6UB10	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3G6X43	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7V1DN0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-X2BAVQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4K9E27	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4R4405	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RKHA5J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3SPHE4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-12WL18	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W57KSR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SXK0ED	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M82GFT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-9EVU5J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RAGXXF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-9BX8N7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-J90ST2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KRT0XC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UDT15E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-S7F125	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2MGYJ6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PQJNMJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PFGWQP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KCJYCC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AW6J90	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QM6LWB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T507Q8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QYF81W	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KJR6LE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VTBMP5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-K5QH36	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LTR316	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-49R5W4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-T7D53E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-GUH93R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PPG6QG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-U3FXEH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-AQXMSK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PF5LRC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G5EEUB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-VARC6Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JSYYMP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XMF31N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VA6KL5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-ES6R3K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BQMWTE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-H6ATRC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1XTA9U	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-C7R703	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FBESFK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-C1XTN4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QFKDAB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5LBJA8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DNLHGL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-86QYL8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1T3XMM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HHGELA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HNQMN1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-J540K1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8CHR0F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1L598A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-U70Y23	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DKE3Y6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7RN86T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2Y1P3R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VGCLHR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7CJP25	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CS19JL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4JKTY7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WEGDHG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SXRDU6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SY25S2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T0J5VN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7Q9SME	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WN7QHU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-UW72JC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RFRG48	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7CGWKX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KX7E7K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AE9M27	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M879KE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FX090M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YUGE2P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VDLC3S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1TWPKB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8L9F1M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-T6BNJX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M47EU2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-L0Y7XT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MGLRED	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7RXNNE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2MM6UY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-55WU67	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-84RBKC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-70APFM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-73UN6J	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NQEY96	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-X0H43E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-73FKDG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KQGY2F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FW5J8Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SBQUFE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-CLGCNH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RQ3Q25	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-S4GKDA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-46AG5V	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-P2NPRR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1XWSH1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3E97QJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-JBJH7Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BQ0CP7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-50MLWK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-GSTXM4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MW3Y1T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7PPE5N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-683MH4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G7JQKY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AL6C8T	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JPL9FX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3X1BSP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-S8KK62	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NVGN9S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-UFFUFS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7K00AR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XFPB9K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P39TNR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QCU3JJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JPLUG0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DWBLWG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2R57CH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LSHP7L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2FWX38	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U7W5W0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-14RG1D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NFJ81F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-VVN75X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QU6XB3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WSJX76	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LLWVCE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-K7SE1D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P0HPU4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5B7ACU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1SPG04	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-E62QUL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-BT4RYG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4C5EE1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4MT5S1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NNY63K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-727D48	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-THX7YQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LWC2VL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FWJPD2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M7LEKY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T24ERL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3GWCY7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1WCQMT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-T4DJM5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P1Y1F7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2EN96H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5X02PG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-NUJ91H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G6RG9L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-L1452E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W5KQXH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NABLGT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BQRF6Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-C7F0K9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FVW77A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-B0NL8D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-21MT47	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EJR3YH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-69KNHE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8TJEH3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QK6LJM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-XWA425	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6AV5LA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-ULHYET	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KPE9HM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-G17F1K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BUXPWQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KQ2S4C	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5L2178	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CQU8KE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-AQ2TB1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-E2W60W	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2J5VBD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QGBX16	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RYG8F2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7CGNSC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-A8YVKH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-95JQLF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1V4TCC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GKNBU1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YRG1VA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-K3TXGU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-M8X9L2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KNK0QL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-ABCDES	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DXNNL1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-V5GB41	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W4P00D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-UKTE3G	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DNSQJK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5S38JE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-300QUS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HRBU7M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-44DV1A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-516FM8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KNSAB2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-ER042K	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-T7WESQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-V8FRHB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-HBA095	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-GFAL4S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EBJNP8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-E6VGQX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XUAEVA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-EFX67V	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PD18U3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3S29QM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-T1KAG0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-B2TBJ5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-CJDGK4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RS243X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2WLWBQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DEYUWJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EYQDV8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-Y5DB5L	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-JERL17	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-96FG22	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-DBJQPT	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SPYWP8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QXLXL4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-KE7T0U	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SJ205P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QG0NAA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-W9HK7Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DDMRK7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U71032	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TK1BJD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-1QH3DM	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-EUYDQR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RPFMPR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-R7Y0PL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-W0J97P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-YEX889	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-31SNMS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-5HJ33V	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-43GL6X	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XG4HQQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5X6BRA	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-5C9RS7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-G923H4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-TR8GMN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-6ABJ38	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6RTHBV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2ES2UE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-M2R3EL	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3ATLFY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-P0RBR3	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-U3147N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-AGBSFR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NY78TY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WWHJGX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-H2PT7F	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FWFP52	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LM634A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-5XC0W7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-N94VA1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-NQ007B	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-20ESFY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SYSJ10	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-L9C0AE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-A80VQE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-DRH84U	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PLGAYD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-VY3SAK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-L2Q29P	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-J3BYD4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-9N0UWF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-K48DSC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TUDE37	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SHRPR1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-N03JPF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-HN47S7	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-3HYJMB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-6E6A3H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-XPHLP5	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8FE4N6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RTRYN1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2UKNEF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-62NCCX	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-MA9KKC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8TRB53	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-KML4T1	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-SKCQS2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Y1CPEW	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-AWGQFB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-1AJDC6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WJA6SD	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-QCV53A	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-RCBJEC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RYBLCF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4Q2GLE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-PKGF0H	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-F3FDW2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LVEWWB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-LQ9XCQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-LNE086	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-P9FNET	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-2NBJQR	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-JM42F2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PBJUUJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-G2MHLB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NLND4Y	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-2HS07S	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7MB9GU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-A9R0X9	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-7FDQ6Q	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-QCPKUB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RXXVRB	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4L8QLK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-PEGGWU	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-H6T5KQ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-XSWXHH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-MXJGMH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-3Q28UP	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-12V0KC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-SY06N0	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-FB09U8	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-4LBS9R	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-M4CP40	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-GXN6LF	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-8LSEGV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-WHKNQC	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-Y3X4P2	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-APJKTJ	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-FRL595	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NLM0EK	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-RURLLV	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XSLD9D	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-XJGWDE	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4EA3MS	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-NBWEBH	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-M6F1Q6	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+XRN-4UT530	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-BR4CMG	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-YNQTF4	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-197BEN	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-V59N5M	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-WP623E	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-TNSBHY	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Male		
+XRN-7LHR6N	Foundation Medicine	ACyC, ACbC, LUACC Subtypes (MSK/FMI 2017)		Female		
+P-0000202	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	58.0	Male	22.849	1:DECEASED
+P-0000340	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	59.0	Male	280.307	1:DECEASED
+P-0000374	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	66.0	Female	79.134	1:DECEASED
+P-0000434	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	55.0	Male	87.551	1:DECEASED
+P-0000507	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	72.0	Female	248.87599999999998	1:DECEASED
+P-0000524	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	53.0	Male	73.381	1:DECEASED
+P-0000618	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	52.0	Male	55.068000000000005	1:DECEASED
+P-0000623	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	66.0	Female	56.449	1:DECEASED
+P-0000717	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	46.0	Male	217.085	1:DECEASED
+P-0000790	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	70.0	Male	85.446	1:DECEASED
+P-0000792	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	56.0	Male	44.285	1:DECEASED
+P-0000948	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	67.0	Female	34.816	1:DECEASED
+P-0000980	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	45.0	Male	43.857	1:DECEASED
+P-0001034	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	64.0	Female	140.186	0:LIVING
+P-0001201	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	42.0	Female	182.03799999999998	1:DECEASED
+P-0001220	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	43.0	Male	93.79700000000001	1:DECEASED
+P-0001225	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	40.0	Male	300.328	1:DECEASED
+P-0001239	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	72.0	Male	89.03	0:LIVING
+P-0001327	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	75.0	Female	66.279	1:DECEASED
+P-0001363	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	54.0	Male	108.92	0:LIVING
+P-0001422	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	55.0	Female	237.6	0:LIVING
+P-0001451	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	77.0	Female	6.312	1:DECEASED
+P-0001585	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	18.0	Female	63.847	0:LIVING
+P-0001660	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	51.0	Female	43.989	1:DECEASED
+P-0001810	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	70.0	Male	202.94799999999998	1:DECEASED
+P-0002189	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	53.0	Male	88.899	0:LIVING
+P-0002214	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	29.359	1:DECEASED
+P-0002486	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	66.0	Female	61.248999999999995	0:LIVING
+P-0003056	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	50.0	Female	193.907	0:LIVING
+P-0003111	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	42.278999999999996	0:LIVING
+P-0003327	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	62.0	Male	42.247	1:DECEASED
+P-0003469	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	63.0	Female	43.036	0:LIVING
+P-0003532	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	56.0	Male	78.214	0:LIVING
+P-0003649	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	48.0	Male	66.805	1:DECEASED
+P-0003699	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	68.0	Female	92.94200000000001	0:LIVING
+P-0004186	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	56.0	Male	83.40799999999999	0:LIVING
+P-0004334	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	59.0	Female	110.367	1:DECEASED
+P-0004371	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)	64.0	Male	16.011	1:DECEASED
+P-0004887	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	13.118	0:LIVING
+P-0005382	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	54.74	0:LIVING
+P-0005392	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	19.397000000000002	1:DECEASED
+P-0005624	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	44.581	0:LIVING
+P-0006032	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	76.175	1:DECEASED
+P-0006518	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	163.561	1:DECEASED
+P-0006690	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	130.849	1:DECEASED
+P-0006939	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	91.43	0:LIVING
+P-0007096	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	27.419	1:DECEASED
+P-0007102	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	25.348000000000003	1:DECEASED
+P-0007145	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	20.647	1:DECEASED
+P-0007499	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	87.22200000000001	0:LIVING
+P-0007699	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	10.751	0:LIVING
+P-0007777	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	190.718	1:DECEASED
+P-0007849	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	204.493	1:DECEASED
+P-0007857	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	65.885	0:LIVING
+P-0008045	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	188.515	0:LIVING
+P-0008066	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	316.767	0:LIVING
+P-0008151	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	74.893	0:LIVING
+P-0008227	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	57.961999999999996	0:LIVING
+P-0008385	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	106.84899999999999	1:DECEASED
+P-0008493	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	76.175	0:LIVING
+P-0008688	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	88.537	0:LIVING
+P-0008768	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	12.592	1:DECEASED
+P-0009174	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	79.627	0:LIVING
+P-0009317	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	87.38600000000001	1:DECEASED
+P-0009457	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	31.166999999999998	0:LIVING
+P-0009534	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	327.222	0:LIVING
+P-0009832	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	62.958999999999996	0:LIVING
+P-0010654	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	311.276	0:LIVING
+P-0010663	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	202.84900000000002	0:LIVING
+P-0011474	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	420.164	1:DECEASED
+P-0012051	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	249.731	0:LIVING
+P-0012563	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	47.342	1:DECEASED
+P-0012652	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	9.995	1:DECEASED
+P-0013084	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	29.392	1:DECEASED
+P-0013620	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	21.699	0:LIVING
+P-0013838	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	40.438	1:DECEASED
+P-0014382	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	26.893	0:LIVING
+P-0014405	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	48.526	1:DECEASED
+P-0014472	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	40.603	0:LIVING
+P-0014709	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	69.666	0:LIVING
+P-0014961	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	52.273999999999994	1:DECEASED
+P-0015093	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	99.551	0:LIVING
+P-0015101	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	47.77	0:LIVING
+P-0015401	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	178.093	0:LIVING
+P-0015992	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	53.72	0:LIVING
+P-0016362	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	122.17	0:LIVING
+P-0016400	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	169.34799999999998	1:DECEASED
+P-0016421	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	8.449	0:LIVING
+P-0017244	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female		1:DECEASED
+P-0017600	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	65.194	0:LIVING
+P-0017620	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	78.83800000000001	0:LIVING
+P-0017745	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	11.835999999999999	0:LIVING
+P-0018440	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Male	276.85400000000004	1:DECEASED
+P-0019072	MSK-IMPACT	ACyC, ACbC, LUACC Cohort (MSK-IMPACT, 2016)		Female	69.008	1:DECEASED

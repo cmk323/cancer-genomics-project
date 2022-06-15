@@ -1,0 +1,678 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	Tumor_Sample_Barcode	Fusion	DNA_support	RNA_support	Method	Frame	Comments	Annotation
+NFIB	4781	MSKCC	ACYC-MSKCC_11_3318	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_11_3318	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_10_5342	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_10_5342	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_36773720	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_36773720	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_002020	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_002020	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_09_4615	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_09_4615	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_002282	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_002282	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_2000136	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_2000136	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_4332	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_4332	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000479	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000479	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000410	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000410	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_007441	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_007441	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_142990	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_142990	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_111097	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_111097	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000609	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000609	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_06_2532	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_06_2532	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000705	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000705	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_122891	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_122891	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000540	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000540	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_6112	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_6112	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000236	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000236	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_990149	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_990149	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_002039	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_002039	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_118135	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_118135	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_3492	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_3492	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_131169	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_131169	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_05_6986	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_05_6986	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_11_17815	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_11_17815	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_001947	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_001947	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_007097	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_007097	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_002238	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_002238	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_671204	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_671204	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_001346	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_001346	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_6277	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_6277	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_065103	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_065103	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_2453	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_2453	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	ACYC-MSKCC_000505	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	ACYC-MSKCC_000505	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+AIG1	51390	MDA	ACYC-MDA_AC07	NFIB-AIG1 Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC07	NFIB-AIG1 Fusion	Yes		WGS			
+MYB	4602	MDA	ACYC-MDA_AC01	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+MYB	4602	MDA	ACYC-MDA_AC02	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+MYB	4602	MDA	ACYC-MDA_AC03	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+MYB	4602	MDA	ACYC-MDA_AC04	MYB-NFIB Fusion	Yes		WGS			
+MYB	4602	MDA	ACYC-MDA_AC05	MYB-NFIB Fusion	Yes		WGS			
+MYB	4602	MDA	ACYC-MDA_AC06	MYB-NFIB Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC01	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+NFIB	4781	MDA	ACYC-MDA_AC02	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+NFIB	4781	MDA	ACYC-MDA_AC03	MYB-NFIB Fusion	Yes	Yes	WGS, Microarray			
+NFIB	4781	MDA	ACYC-MDA_AC04	MYB-NFIB Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC05	MYB-NFIB Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC06	MYB-NFIB Fusion	Yes		WGS			
+MYB	4602	MDA	ACYC-MDA_AC09	MYB-PDCD1LG2 Fusion	Yes		WGS			
+PDCD1LG2	80380	MDA	ACYC-MDA_AC09	MYB-PDCD1LG2 Fusion	Yes		WGS			
+MYBL1	4603	MDA	ACYC-MDA_AC10	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+MYBL1	4603	MDA	ACYC-MDA_AC11	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR, Microarray			
+MYBL1	4603	MDA	ACYC-MDA_AC12	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+MYBL1	4603	MDA	ACYC-MDA_AC13	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR, Microarray			
+NFIB	4781	MDA	ACYC-MDA_AC10	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+NFIB	4781	MDA	ACYC-MDA_AC11	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR, Microarray			
+NFIB	4781	MDA	ACYC-MDA_AC12	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+NFIB	4781	MDA	ACYC-MDA_AC13	MYBL1-NFIB Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR, Microarray			
+MYBL1	4603	MDA	ACYC-MDA_AC14	MYBL1-YTHDF3 Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+YTHDF3	253943	MDA	ACYC-MDA_AC14	MYBL1-YTHDF3 Fusion	Yes	Yes	WGS, RT-PCR, Sanger, FISH, qPCR			
+NFIB	4781	MDA	ACYC-MDA_AC08	NFIB-NKAIN2 Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC08	NFIB-PTPRD Fusion	Yes		WGS			
+NFIB	4781	MDA	ACYC-MDA_AC09	NFIB-XRCC4 Fusion	Yes		WGS			
+NKAIN2	154215	MDA	ACYC-MDA_AC08	NFIB-NKAIN2 Fusion	Yes		WGS			
+PTPRD	5789	MDA	ACYC-MDA_AC08	NFIB-PTPRD Fusion	Yes		WGS			
+XRCC4	7518	MDA	ACYC-MDA_AC09	NFIB-XRCC4 Fusion	Yes		WGS			
+MYB	4602	MSKCC	AdCC1T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC2T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC3T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC4T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC5T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC6T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC8T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC9T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC10T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	MSKCC	AdCC32T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC1T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC2T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC3T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC4T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC5T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC6T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC8T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC9T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC10T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+NFIB	4781	MSKCC	AdCC32T	MYB-NFIB Fusion	Yes	Yes	WGS, FISH, RT-PCR			
+MYB	4602	JHU	ACYC-JHU_PGDX912T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX914T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+RPS6KA2	6196	JHU	ACYC-JHU_PGDX914T	RPS6KA2-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYBL1	4603	JHU	ACYC-JHU_PGDX916T	MYBL1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX921T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1762T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYBL1	4603	JHU	ACYC-JHU_PGDX1763T	MYBL1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1764T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYO6	4646	JHU	ACYC-JHU_PGDX1765T	MYO6-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1766T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2882T	MAP3K5-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX2882T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1767T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1769T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+RIMS1	22999	JHU	ACYC-JHU_PGDX1769T	RIMS1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2884T	MAP3K5-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1770T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1772T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX912T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX914T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX914T	RPS6KA2-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX916T	MYBL1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX921T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1762T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1763T	MYBL1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1764T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1765T	MYO6-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1766T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX2882T	MAP3K5-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX2882T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1767T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1769T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1769T	RIMS1-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX2884T	MAP3K5-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1770T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1772T	MYB-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NEGR1	257194	JHU	ACYC-JHU_PGDX910T	NEGR1-truncation	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX910T	NFIB-intragenic	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX912T	NFIB-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX912T	NFIB-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+TJP2	9414	JHU	ACYC-JHU_PGDX913T	TJP2-truncation	Unknown	Unknown	Unknown	Unknown		
+PHF14	9678	JHU	ACYC-JHU_PGDX913T	PHF14-truncation	Unknown	Unknown	Unknown	Unknown		
+AHI1	54806	JHU	ACYC-JHU_PGDX913T	AHI1-truncation	Unknown	Unknown	Unknown	Unknown		
+MAOB	4129	JHU	ACYC-JHU_PGDX913T	MAOB-truncation	Unknown	Unknown	Unknown	Unknown		
+PHACTR1	221692	JHU	ACYC-JHU_PGDX913T	PHACTR1-truncation	Unknown	Unknown	Unknown	Unknown		
+SLC16A2	6567	JHU	ACYC-JHU_PGDX913T	SLC16A2 duplication	Unknown	Unknown	Unknown	Unknown		
+CNTLN	54875	JHU	ACYC-JHU_PGDX914T	CNTLN-PSAT1 fusion	Unknown	Unknown	Unknown	Unknown		
+PSAT1	29968	JHU	ACYC-JHU_PGDX914T	CNTLN-PSAT1 fusion	Unknown	Unknown	Unknown	Unknown		
+PSAT1	29968	JHU	ACYC-JHU_PGDX914T	PSAT1-truncation	Unknown	Unknown	Unknown	Unknown		
+FGFR1OP	11116	JHU	ACYC-JHU_PGDX914T	FGFR1OP-truncation	Unknown	Unknown	Unknown	Unknown		
+CCDC28A	25901	JHU	ACYC-JHU_PGDX914T	CCDC28A-truncation	Unknown	Unknown	Unknown	Unknown		
+UTRN	7402	JHU	ACYC-JHU_PGDX914T	UTRN duplication	Unknown	Unknown	Unknown	Unknown		
+FGFR1OP	11116	JHU	ACYC-JHU_PGDX914T	FGFR1OP-STX11 fusion	Unknown	Unknown	Unknown	Unknown		
+STX11	8676	JHU	ACYC-JHU_PGDX914T	FGFR1OP-STX11 fusion	Unknown	Unknown	Unknown	Unknown		
+RPS6KA2	6196	JHU	ACYC-JHU_PGDX914T	RPS6KA2 duplication	Unknown	Unknown	Unknown	Unknown		
+C9orf24	84688	JHU	ACYC-JHU_PGDX914T	C9orf24 duplication	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX914T	MAP3K5 duplication	Unknown	Unknown	Unknown	Unknown		
+DNAI1	27019	JHU	ACYC-JHU_PGDX914T	DNAI1 duplication	Unknown	Unknown	Unknown	Unknown		
+AIG1	51390	JHU	ACYC-JHU_PGDX914T	AIG1-UTRN fusion	Unknown	Unknown	Unknown	Unknown		
+UTRN	7402	JHU	ACYC-JHU_PGDX914T	AIG1-UTRN fusion	Unknown	Unknown	Unknown	Unknown		
+UTRN	7402	JHU	ACYC-JHU_PGDX914T	UTRN-intragenic	Unknown	Unknown	Unknown	Unknown		
+AIG1	51390	JHU	ACYC-JHU_PGDX914T	AIG1-intragenic	Unknown	Unknown	Unknown	Unknown		
+CNTFR	1271	JHU	ACYC-JHU_PGDX914T	CNTFR-intragenic	Unknown	Unknown	Unknown	Unknown		
+HIVEP2	3097	JHU	ACYC-JHU_PGDX914T	HIVEP2-intragenic	Unknown	Unknown	Unknown	Unknown		
+DNAI1	27019	JHU	ACYC-JHU_PGDX914T	DNAI1-intragenic	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX914T	NFIB-RPS6KA2 fusion	Unknown	Unknown	Unknown	Unknown		
+RPS6KA2	6196	JHU	ACYC-JHU_PGDX914T	NFIB-RPS6KA2 fusion	Unknown	Unknown	Unknown	Unknown		
+PSAT1	29968	JHU	ACYC-JHU_PGDX914T	PSAT1-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX914T	PSAT1-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+UBAP1	51271	JHU	ACYC-JHU_PGDX914T	UBAP1-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX914T	UBAP1-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+FGFR1OP	11116	JHU	ACYC-JHU_PGDX914T	FGFR1OP-intragenic	Unknown	Unknown	Unknown	Unknown		
+IMPG1	3617	JHU	ACYC-JHU_PGDX914T	IMPG1-intragenic	Unknown	Unknown	Unknown	Unknown		
+PEX7	5191	JHU	ACYC-JHU_PGDX914T	PEX7-intragenic	Unknown	Unknown	Unknown	Unknown		
+RPS6KA2	6196	JHU	ACYC-JHU_PGDX914T	RPS6KA2-intragenic	Unknown	Unknown	Unknown	Unknown		
+STX11	8676	JHU	ACYC-JHU_PGDX914T	STX11-intragenic	Unknown	Unknown	Unknown	Unknown		
+CNTLN	54875	JHU	ACYC-JHU_PGDX914T	CNTLN-intragenic	Unknown	Unknown	Unknown	Unknown		
+AIG1	51390	JHU	ACYC-JHU_PGDX914T	AIG1-CNTFR fusion	Unknown	Unknown	Unknown	Unknown		
+CNTFR	1271	JHU	ACYC-JHU_PGDX914T	AIG1-CNTFR fusion	Unknown	Unknown	Unknown	Unknown		
+HIVEP2	3097	JHU	ACYC-JHU_PGDX914T	HIVEP2-C9orf24 fusion	Unknown	Unknown	Unknown	Unknown		
+C9orf24	84688	JHU	ACYC-JHU_PGDX914T	HIVEP2-C9orf24 fusion	Unknown	Unknown	Unknown	Unknown		
+C9orf24	84688	JHU	ACYC-JHU_PGDX914T	C9orf24-intragenic	Unknown	Unknown	Unknown	Unknown		
+RPS6KA2	6196	JHU	ACYC-JHU_PGDX914T	RPS6KA2-C9orf24 fusion	Unknown	Unknown	Unknown	Unknown		
+C9orf24	84688	JHU	ACYC-JHU_PGDX914T	RPS6KA2-C9orf24 fusion	Unknown	Unknown	Unknown	Unknown		
+CD151	977	JHU	ACYC-JHU_PGDX915T	CD151-LDLRAD3 fusion	Unknown	Unknown	Unknown	Unknown		
+LDLRAD3	143458	JHU	ACYC-JHU_PGDX915T	CD151-LDLRAD3 fusion	Unknown	Unknown	Unknown	Unknown		
+KIAA1671	85379	JHU	ACYC-JHU_PGDX915T	KIAA1671-truncation	Unknown	Unknown	Unknown	Unknown		
+SORD	6652	JHU	ACYC-JHU_PGDX915T	SORD-intragenic	Unknown	Unknown	Unknown	Unknown		
+FUT9	10690	JHU	ACYC-JHU_PGDX915T	FUT9-intragenic	Unknown	Unknown	Unknown	Unknown		
+ARID1B	57492	JHU	ACYC-JHU_PGDX915T	ARID1B-intragenic	Unknown	Unknown	Unknown	Unknown		
+FUT9	10690	JHU	ACYC-JHU_PGDX915T	FUT9-CD151 fusion	Unknown	Unknown	Unknown	Unknown		
+CD151	977	JHU	ACYC-JHU_PGDX915T	FUT9-CD151 fusion	Unknown	Unknown	Unknown	Unknown		
+LURAP1L	286343	JHU	ACYC-JHU_PGDX916T	LURAP1L-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX916T	LURAP1L-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+PTPRB	5787	JHU	ACYC-JHU_PGDX919T	PTPRB-intragenic	Unknown	Unknown	Unknown	Unknown		
+IGSF3	3321	JHU	ACYC-JHU_PGDX919T	IGSF3-intragenic	Unknown	Unknown	Unknown	Unknown		
+MBNL1	4154	JHU	ACYC-JHU_PGDX920T	MBNL1-truncation	Unknown	Unknown	Unknown	Unknown		
+C16orf52	730094	JHU	ACYC-JHU_PGDX920T	C16orf52-truncation	Unknown	Unknown	Unknown	Unknown		
+PEX7	5191	JHU	ACYC-JHU_PGDX920T	PEX7-intragenic	Unknown	Unknown	Unknown	Unknown		
+RGS3	5998	JHU	ACYC-JHU_PGDX920T	RGS3-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX920T	RGS3-NFIB fusion	Unknown	Unknown	Unknown	Unknown		
+RGS3	5998	JHU	ACYC-JHU_PGDX920T	RGS3-IKBKAP fusion	Unknown	Unknown	Unknown	Unknown		
+IKBKAP	8518	JHU	ACYC-JHU_PGDX920T	RGS3-IKBKAP fusion	Unknown	Unknown	Unknown	Unknown		
+ATP6V0D1	9114	JHU	ACYC-JHU_PGDX920T	ATP6V0D1-C16orf70 fusion	Unknown	Unknown	Unknown	Unknown		
+C16orf70	80262	JHU	ACYC-JHU_PGDX920T	ATP6V0D1-C16orf70 fusion	Unknown	Unknown	Unknown	Unknown		
+RGS3	5998	JHU	ACYC-JHU_PGDX920T	RGS3-SNX20 fusion	Unknown	Unknown	Unknown	Unknown		
+SNX20	124460	JHU	ACYC-JHU_PGDX920T	RGS3-SNX20 fusion	Unknown	Unknown	Unknown	Unknown		
+RGS3	5998	JHU	ACYC-JHU_PGDX920T	RGS3-intragenic	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX920T	NFIB-intragenic	Unknown	Unknown	Unknown	Unknown		
+DPP10	57628	JHU	ACYC-JHU_PGDX920T	DPP10-intragenic	Unknown	Unknown	Unknown	Unknown		
+IKBKAP	8518	JHU	ACYC-JHU_PGDX920T	IKBKAP-intragenic	Unknown	Unknown	Unknown	Unknown		
+PAPD5	64282	JHU	ACYC-JHU_PGDX920T	PAPD5-DPP10 fusion	Unknown	Unknown	Unknown	Unknown		
+DPP10	57628	JHU	ACYC-JHU_PGDX920T	PAPD5-DPP10 fusion	Unknown	Unknown	Unknown	Unknown		
+C16orf70	80262	JHU	ACYC-JHU_PGDX920T	C16orf70-intragenic	Unknown	Unknown	Unknown	Unknown		
+ATP6V0D1	9114	JHU	ACYC-JHU_PGDX920T	ATP6V0D1-intragenic	Unknown	Unknown	Unknown	Unknown		
+PEAK1	79834	JHU	ACYC-JHU_PGDX1762T	PEAK1-truncation	Unknown	Unknown	Unknown	Unknown		
+ARID1A	8289	JHU	ACYC-JHU_PGDX1762T	ARID1A-truncation	Unknown	Unknown	Unknown	Unknown		
+RASGRP1	10125	JHU	ACYC-JHU_PGDX1762T	RASGRP1-MYO5A fusion	Unknown	Unknown	Unknown	Unknown		
+MYO5A	4644	JHU	ACYC-JHU_PGDX1762T	RASGRP1-MYO5A fusion	Unknown	Unknown	Unknown	Unknown		
+MYO5A	4644	JHU	ACYC-JHU_PGDX1762T	MYO5A-GLDN fusion	Unknown	Unknown	Unknown	Unknown		
+GLDN	342035	JHU	ACYC-JHU_PGDX1762T	MYO5A-GLDN fusion	Unknown	Unknown	Unknown	Unknown		
+LGR6	59352	JHU	ACYC-JHU_PGDX1763T	LGR6 duplication	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1763T	NFIB-intragenic	Unknown	Unknown	Unknown	Unknown		
+TTC28	23331	JHU	ACYC-JHU_PGDX1763T	TTC28-KCNH8 fusion	Unknown	Unknown	Unknown	Unknown		
+KCNH8	131096	JHU	ACYC-JHU_PGDX1763T	TTC28-KCNH8 fusion	Unknown	Unknown	Unknown	Unknown		
+SLC35F1	222553	JHU	ACYC-JHU_PGDX1764T	SLC35F1-truncation	Unknown	Unknown	Unknown	Unknown		
+RIMS1	22999	JHU	ACYC-JHU_PGDX1764T	RIMS1-truncation	Unknown	Unknown	Unknown	Unknown		
+MED23	9439	JHU	ACYC-JHU_PGDX1764T	MED23-PHIP fusion	Unknown	Unknown	Unknown	Unknown		
+PHIP	55023	JHU	ACYC-JHU_PGDX1764T	MED23-PHIP fusion	Unknown	Unknown	Unknown	Unknown		
+SAMD3	154075	JHU	ACYC-JHU_PGDX1764T	SAMD3-PDE7B fusion	Unknown	Unknown	Unknown	Unknown		
+PDE7B	27115	JHU	ACYC-JHU_PGDX1764T	SAMD3-PDE7B fusion	Unknown	Unknown	Unknown	Unknown		
+MCPH1	79648	JHU	ACYC-JHU_PGDX1764T	MCPH1-truncation	Unknown	Unknown	Unknown	Unknown		
+FRK	2444	JHU	ACYC-JHU_PGDX1764T	FRK-truncation	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX1764T	MAP3K5 duplication	Unknown	Unknown	Unknown	Unknown		
+SLC35F1	222553	JHU	ACYC-JHU_PGDX1764T	SLC35F1-intragenic	Unknown	Unknown	Unknown	Unknown		
+NKAIN2	154215	JHU	ACYC-JHU_PGDX1764T	NKAIN2-intragenic	Unknown	Unknown	Unknown	Unknown		
+MED23	9439	JHU	ACYC-JHU_PGDX1764T	MED23-intragenic	Unknown	Unknown	Unknown	Unknown		
+GK	2710	JHU	ACYC-JHU_PGDX1764T	GK-intragenic	Unknown	Unknown	Unknown	Unknown		
+GPR126	57211	JHU	ACYC-JHU_PGDX1764T	GPR126-intragenic	Unknown	Unknown	Unknown	Unknown		
+CMYA5	202333	JHU	ACYC-JHU_PGDX1764T	CMYA5-intragenic	Unknown	Unknown	Unknown	Unknown		
+TUFT1	7286	JHU	ACYC-JHU_PGDX1764T	TUFT1-intragenic	Unknown	Unknown	Unknown	Unknown		
+DICER1	23405	JHU	ACYC-JHU_PGDX1764T	DICER1-intragenic	Unknown	Unknown	Unknown	Unknown		
+RIMS1	22999	JHU	ACYC-JHU_PGDX1764T	RIMS1-DICER1 fusion	Unknown	Unknown	Unknown	Unknown		
+DICER1	23405	JHU	ACYC-JHU_PGDX1764T	RIMS1-DICER1 fusion	Unknown	Unknown	Unknown	Unknown		
+SAMD3	154075	JHU	ACYC-JHU_PGDX1764T	SAMD3-BNC2 fusion	Unknown	Unknown	Unknown	Unknown		
+BNC2	54796	JHU	ACYC-JHU_PGDX1764T	SAMD3-BNC2 fusion	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1765T	NFIB-truncation	Unknown	Unknown	Unknown	Unknown		
+MYO6	4646	JHU	ACYC-JHU_PGDX1765T	MYO6-MLLT4 fusion	Unknown	Unknown	Unknown	Unknown		
+MLLT4	4301	JHU	ACYC-JHU_PGDX1765T	MYO6-MLLT4 fusion	Unknown	Unknown	Unknown	Unknown		
+VPS13B	157680	JHU	ACYC-JHU_PGDX1765T	VPS13B-intragenic	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1765T	NFIB-MYO6 fusion	Unknown	Unknown	Unknown	Unknown		
+MYO6	4646	JHU	ACYC-JHU_PGDX1765T	NFIB-MYO6 fusion	Unknown	Unknown	Unknown	Unknown		
+INVS	27130	JHU	ACYC-JHU_PGDX1765T	INVS-intragenic	Unknown	Unknown	Unknown	Unknown		
+MYLK	4638	JHU	ACYC-JHU_PGDX1765T	MYLK-intragenic	Unknown	Unknown	Unknown	Unknown		
+PTPRD	5789	JHU	ACYC-JHU_PGDX1765T	PTPRD-intragenic	Unknown	Unknown	Unknown	Unknown		
+FAM118B	79607	JHU	ACYC-JHU_PGDX2880T	FAM118B-intragenic	Unknown	Unknown	Unknown	Unknown		
+HBS1L	10767	JHU	ACYC-JHU_PGDX2880T	HBS1L-intragenic	Unknown	Unknown	Unknown	Unknown		
+TTC28	23331	JHU	ACYC-JHU_PGDX2880T	TTC28-intragenic	Unknown	Unknown	Unknown	Unknown		
+ZDHHC21	340481	JHU	ACYC-JHU_PGDX2880T	ZDHHC21-intragenic	Unknown	Unknown	Unknown	Unknown		
+ALG9	79796	JHU	ACYC-JHU_PGDX2880T	ALG9-FAM210A fusion	Unknown	Unknown	Unknown	Unknown		
+FAM210A	125228	JHU	ACYC-JHU_PGDX2880T	ALG9-FAM210A fusion	Unknown	Unknown	Unknown	Unknown		
+C11orf53	341032	JHU	ACYC-JHU_PGDX2880T	C11orf53-intragenic	Unknown	Unknown	Unknown	Unknown		
+ZSWIM6	57688	JHU	ACYC-JHU_PGDX1766T	ZSWIM6-truncation	Unknown	Unknown	Unknown	Unknown		
+UNC79	57578	JHU	ACYC-JHU_PGDX1766T	UNC79-truncation	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1766T	NFIB-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX1766T	NFIB-MYB fusion	Unknown	Unknown	Unknown	Unknown		
+EYA4	2070	JHU	ACYC-JHU_PGDX2882T	EYA4-truncation	Unknown	Unknown	Unknown	Unknown		
+MYB	4602	JHU	ACYC-JHU_PGDX2882T	MYB-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2882T	MYB-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2882T	MAP3K5-intragenic	Unknown	Unknown	Unknown	Unknown		
+SORCS2	57537	JHU	ACYC-JHU_PGDX1767T	SORCS2-truncation	Unknown	Unknown	Unknown	Unknown		
+NRG1	3084	JHU	ACYC-JHU_PGDX1767T	NRG1-truncation	Unknown	Unknown	Unknown	Unknown		
+RAB39A	54734	JHU	ACYC-JHU_PGDX1767T	RAB39A-truncation	Unknown	Unknown	Unknown	Unknown		
+ERC1	23085	JHU	ACYC-JHU_PGDX1767T	ERC1-intragenic	Unknown	Unknown	Unknown	Unknown		
+WAC	51322	JHU	ACYC-JHU_PGDX1767T	WAC-intragenic	Unknown	Unknown	Unknown	Unknown		
+CD200	4345	JHU	ACYC-JHU_PGDX1767T	CD200-RAB19 fusion	Unknown	Unknown	Unknown	Unknown		
+RAB19	401409	JHU	ACYC-JHU_PGDX1767T	CD200-RAB19 fusion	Unknown	Unknown	Unknown	Unknown		
+KPNA4	3840	JHU	ACYC-JHU_PGDX1767T	KPNA4-intragenic	Unknown	Unknown	Unknown	Unknown		
+FAM160A1	729830	JHU	ACYC-JHU_PGDX2883T	FAM160A1-truncation	Unknown	Unknown	Unknown	Unknown		
+HIPK3	10114	JHU	ACYC-JHU_PGDX2883T	HIPK3-truncation	Unknown	Unknown	Unknown	Unknown		
+PPP1R3A	5506	JHU	ACYC-JHU_PGDX2883T	PPP1R3A-truncation	Unknown	Unknown	Unknown	Unknown		
+POLR2A	5430	JHU	ACYC-JHU_PGDX2883T	POLR2A-DNAH2 fusion	Unknown	Unknown	Unknown	Unknown		
+DNAH2	146754	JHU	ACYC-JHU_PGDX2883T	POLR2A-DNAH2 fusion	Unknown	Unknown	Unknown	Unknown		
+TTC28	23331	JHU	ACYC-JHU_PGDX2883T	TTC28-intragenic	Unknown	Unknown	Unknown	Unknown		
+BOC	91653	JHU	ACYC-JHU_PGDX2883T	BOC-intragenic	Unknown	Unknown	Unknown	Unknown		
+CDKAL1	54901	JHU	ACYC-JHU_PGDX2883T	CDKAL1-intragenic	Unknown	Unknown	Unknown	Unknown		
+HDAC4	9759	JHU	ACYC-JHU_PGDX2883T	HDAC4-intragenic	Unknown	Unknown	Unknown	Unknown		
+SAP130	79595	JHU	ACYC-JHU_PGDX2883T	SAP130-intragenic	Unknown	Unknown	Unknown	Unknown		
+CTTNBP2	83992	JHU	ACYC-JHU_PGDX2883T	CTTNBP2-intragenic	Unknown	Unknown	Unknown	Unknown		
+PAX2	5076	JHU	ACYC-JHU_PGDX2883T	PAX2-CDH13 fusion	Unknown	Unknown	Unknown	Unknown		
+CDH13	1012	JHU	ACYC-JHU_PGDX2883T	PAX2-CDH13 fusion	Unknown	Unknown	Unknown	Unknown		
+ZBTB20	26137	JHU	ACYC-JHU_PGDX1768T	ZBTB20 duplication	Unknown	Unknown	Unknown	Unknown		
+POLH	5429	JHU	ACYC-JHU_PGDX1768T	POLH-ZNF492 fusion	Unknown	Unknown	Unknown	Unknown		
+ZNF492	57615	JHU	ACYC-JHU_PGDX1768T	POLH-ZNF492 fusion	Unknown	Unknown	Unknown	Unknown		
+TTC28	23331	JHU	ACYC-JHU_PGDX1768T	TTC28-intragenic	Unknown	Unknown	Unknown	Unknown		
+EYA4	2070	JHU	ACYC-JHU_PGDX1769T	EYA4-STXBP5 fusion	Unknown	Unknown	Unknown	Unknown		
+STXBP5	134957	JHU	ACYC-JHU_PGDX1769T	EYA4-STXBP5 fusion	Unknown	Unknown	Unknown	Unknown		
+RIMS1	22999	JHU	ACYC-JHU_PGDX1769T	RIMS1-truncation	Unknown	Unknown	Unknown	Unknown		
+EYA4	2070	JHU	ACYC-JHU_PGDX1769T	EYA4-truncation	Unknown	Unknown	Unknown	Unknown		
+GAS2L3	283431	JHU	ACYC-JHU_PGDX1769T	GAS2L3-intragenic	Unknown	Unknown	Unknown	Unknown		
+TMC1	117531	JHU	ACYC-JHU_PGDX1769T	TMC1-intragenic	Unknown	Unknown	Unknown	Unknown		
+SGCD	6444	JHU	ACYC-JHU_PGDX1769T	SGCD-intragenic	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX1769T	NFIB-RIMS1 fusion	Unknown	Unknown	Unknown	Unknown		
+RIMS1	22999	JHU	ACYC-JHU_PGDX1769T	NFIB-RIMS1 fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2884T	MAP3K5-truncation	Unknown	Unknown	Unknown	Unknown		
+NFIB	4781	JHU	ACYC-JHU_PGDX2884T	NFIB-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+MAP3K5	4217	JHU	ACYC-JHU_PGDX2884T	NFIB-MAP3K5 fusion	Unknown	Unknown	Unknown	Unknown		
+R3HDM2	22864	JHU	ACYC-JHU_PGDX1770T	R3HDM2-truncation	Unknown	Unknown	Unknown	Unknown		
+PCED1B	91523	JHU	ACYC-JHU_PGDX1770T	PCED1B-truncation	Unknown	Unknown	Unknown	Unknown		
+L3HYPDH	112849	JHU	ACYC-JHU_PGDX1770T	L3HYPDH-intragenic	Unknown	Unknown	Unknown	Unknown		
+KIAA0247	9766	JHU	ACYC-JHU_PGDX1770T	KIAA0247-intragenic	Unknown	Unknown	Unknown	Unknown		
+CCDC171	203238	JHU	ACYC-JHU_PGDX1770T	CCDC171-BNC2 fusion	Unknown	Unknown	Unknown	Unknown		
+BNC2	54796	JHU	ACYC-JHU_PGDX1770T	CCDC171-BNC2 fusion	Unknown	Unknown	Unknown	Unknown		
+R3HDM2	22864	JHU	ACYC-JHU_PGDX1770T	R3HDM2-intragenic	Unknown	Unknown	Unknown	Unknown		
+ARID4A	5926	JHU	ACYC-JHU_PGDX1770T	ARID4A-intragenic	Unknown	Unknown	Unknown	Unknown		
+KIAA1211	57482	JHU	ACYC-JHU_PGDX1772T	KIAA1211 duplication	Unknown	Unknown	Unknown	Unknown		
+CCDC171	203238	JHU	ACYC-JHU_PGDX1772T	CCDC171-intragenic	Unknown	Unknown	Unknown	Unknown		
+MYB	0	Foundation	XRN-PH6XJ6	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-PH6XJ6	MYB-NFIB fusion	yes	unknown		unknown		
+SPEN	0	Foundation	XRN-QC7XXT	SPEN-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-PDCVLE	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-PDCVLE	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-TV337E	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-TV337E	MYB-NFIB fusion	yes	unknown		unknown		
+RAD54L	0	Foundation	XRN-KMTT94	RAD54L-ZCCHC11 rearrangement	yes	unknown		unknown		
+ZCCHC11	0	Foundation	XRN-KMTT94	RAD54L-ZCCHC11 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-HBALKM	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-HBALKM	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-3F4C55	MYB-NFIB rearrangement	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-3F4C55	MYB-NFIB rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-BENHL1	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-BENHL1	MYB-NFIB fusion	yes	unknown		unknown		
+ATRX	0	Foundation	XRN-Y1A6R5	ATRX-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-FS7TBE	MYB-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-JQCECQ	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-JQCECQ	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-PTQ6PQ	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-PTQ6PQ	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-LD54DE	MYB-NKAIN2 fusion	yes	unknown		unknown		
+NKAIN2	0	Foundation	XRN-LD54DE	MYB-NKAIN2 fusion	yes	unknown		unknown		
+EGFR	0	Foundation	XRN-3241LB	EGFR-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-KUJU34	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-KUJU34	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-5N14N5	MYB-MDN1 fusion	yes	unknown		unknown		
+MDN1	0	Foundation	XRN-5N14N5	MYB-MDN1 fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-MMA3YS	MYB-intergenic	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-PRA7TP	NOTCH1-intragenic	yes	unknown		unknown		
+PRKDC	0	Foundation	XRN-4KWL2T	PRKDC-intergenic	yes	unknown		unknown		
+NOTCH2	0	Foundation	XRN-12J6CD	NOTCH2-intragenic	yes	unknown		unknown		
+NOTCH2	0	Foundation	XRN-B9ALTG	NOTCH2-intergenic	yes	unknown		unknown		
+GNA11	0	Foundation	XRN-HR1C2Q	GNA11-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-4TBR67	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-4TBR67	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-KEF5HC	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-KEF5HC	MYB-NFIB fusion	yes	unknown		unknown		
+DDR1	0	Foundation	XRN-RW01C5	DDR1-intergenic	yes	unknown		unknown		
+DICER1	0	Foundation	XRN-EXY7U8	DICER1-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-UYQBGA	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-UYQBGA	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-MCT9TX	MYB-UST rearrangement	yes	unknown		unknown		
+UST	0	Foundation	XRN-MCT9TX	MYB-UST rearrangement	yes	unknown		unknown		
+SNCAIP	0	Foundation	XRN-HLWLNP	SNCAIP-intragenic	yes	unknown		unknown		
+GSK3B	0	Foundation	XRN-7THY8Y	GSK3B-C1orf49 truncation	yes	unknown		unknown		
+C1orf49	0	Foundation	XRN-7THY8Y	GSK3B-C1orf49 truncation	yes	unknown		unknown		
+FGFR3	0	Foundation	XRN-7THY8Y	FGFR3-TACC3 truncation	yes	unknown		unknown		
+TACC3	0	Foundation	XRN-7THY8Y	FGFR3-TACC3 truncation	yes	unknown		unknown		
+MYB	0	Foundation	XRN-TSYX80	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-TSYX80	MYB-NFIB fusion	yes	unknown		unknown		
+MDM2	0	Foundation	XRN-YYBV9S	MDM2-intergenic	yes	unknown		unknown		
+FRS2	0	Foundation	XRN-65MTLT	FRS2-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-CX0U2P	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-XQ8S3A	MYB-NFIB rearrangement	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-XQ8S3A	MYB-NFIB rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-CLCP1F	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-CLCP1F	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-JW5D4E	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-SH3LTP	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-SH3LTP	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-X6WC68	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-X6WC68	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-B15CTK	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-B15CTK	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-3WNDTD	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-3WNDTD	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-SP16XJ	MYB-intergenic	yes	unknown		unknown		
+CDKN2A	0	Foundation	XRN-PJ80LE	CDKN2A-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-2HVD82	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-2HVD82	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-X08SBX	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-X08SBX	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-3DDYCR	MYB-intergenic	yes	unknown		unknown		
+SOX10	0	Foundation	XRN-6AX1HC	SOX10-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-PFXN53	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-PFXN53	MYB-NFIB fusion	yes	unknown		unknown		
+EPHA3	0	Foundation	XRN-4C4G0A	EPHA3-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-J2G88X	MYB-NFIB rearrangement	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-J2G88X	MYB-NFIB rearrangement	yes	unknown		unknown		
+NOTCH2	0	Foundation	XRN-GBJPFV	NOTCH2-CAPZA1 truncation	yes	unknown		unknown		
+CAPZA1	0	Foundation	XRN-GBJPFV	NOTCH2-CAPZA1 truncation	yes	unknown		unknown		
+MYB	0	Foundation	XRN-KKQ9H8	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-XBTHWQ	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-XBTHWQ	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-XBTHWQ	MYB-AHI1 fusion	yes	unknown		unknown		
+AHI1	0	Foundation	XRN-XBTHWQ	MYB-AHI1 fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-7Y45HM	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-7Y45HM	MYB-NFIB fusion	yes	unknown		unknown		
+KIT	0	Foundation	XRN-16BB9A	KIT-PDGFRA rearrangement	yes	unknown		unknown		
+PDGFRA	0	Foundation	XRN-16BB9A	KIT-PDGFRA rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-MGHWJF	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-MGHWJF	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-A6MEPR	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-A6MEPR	MYB-NFIB fusion	yes	unknown		unknown		
+POLE	0	Foundation	XRN-UF8RR8	POLE-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-UF8RR8	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-UF8RR8	MYB-NFIB fusion	yes	unknown		unknown		
+GNA11	0	Foundation	XRN-MWMBY9	GNA11-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-MWMBY9	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-MWMBY9	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-QJJFNV	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-QJJFNV	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-C3UYT6	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-C3UYT6	MYB-NFIB fusion	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-HWUT0C	NOTCH1-SEC16A fusion	yes	unknown		unknown		
+SEC16A	0	Foundation	XRN-HWUT0C	NOTCH1-SEC16A fusion	yes	unknown		unknown		
+PTCH1	0	Foundation	XRN-RV5WXT	PTCH1-GLI1 truncation	yes	unknown		unknown		
+GLI1	0	Foundation	XRN-RV5WXT	PTCH1-GLI1 truncation	yes	unknown		unknown		
+CDC73	0	Foundation	XRN-5JA7W9	CDC73-intergenic	yes	unknown		unknown		
+CHEK2	0	Foundation	XRN-SXL2UF	CHEK2-EMID1 rearrangement	yes	unknown		unknown		
+EMID1	0	Foundation	XRN-SXL2UF	CHEK2-EMID1 rearrangement	yes	unknown		unknown		
+MAP3K1	0	Foundation	XRN-WEALX0	MAP3K1-intergenic	yes	unknown		unknown		
+SMAD4	0	Foundation	XRN-WEALX0	SMAD4-intragenic	yes	unknown		unknown		
+CDKN2A	0	Foundation	XRN-QBMQKU	CDKN2A-CDH7 rearrangement	yes	unknown		unknown		
+CDH7	0	Foundation	XRN-QBMQKU	CDKN2A-CDH7 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-TX5V70	MYB-HBS1L rearrangement	yes	unknown		unknown		
+HBS1L	0	Foundation	XRN-TX5V70	MYB-HBS1L rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-46UK0C	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-46UK0C	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-62MX20	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-62MX20	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-VW13JX	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-VW13JX	MYB-NFIB fusion	yes	unknown		unknown		
+ASXL1	0	Foundation	XRN-11FPP4	ASXL1-intergenic	yes	unknown		unknown		
+PTPN11	0	Foundation	XRN-7V1DN0	PTPN11-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-9EVU5J	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-9EVU5J	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-9BX8N7	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-9BX8N7	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-J90ST2	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-J90ST2	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-PQJNMJ	MYB-LINC00271 rearrangement	yes	unknown		unknown		
+AHI1-DT	0	Foundation	XRN-PQJNMJ	MYB-AHI1-DT rearrangement	yes	unknown		unknown		
+NOTCH2	0	Foundation	XRN-KCJYCC	NOTCH2-TBX15 truncation	yes	unknown		unknown		
+TBX15	0	Foundation	XRN-KCJYCC	NOTCH2-TBX15 truncation	yes	unknown		unknown		
+EP300	0	Foundation	XRN-T507Q8	EP300-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-GUH93R	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-GUH93R	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-AQXMSK	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-AQXMSK	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-G5EEUB	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-G5EEUB	MYB-NFIB fusion	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-JSYYMP	NOTCH1-intergenic	yes	unknown		unknown		
+NOTCH2	0	Foundation	XRN-XMF31N	NOTCH2-GPR56 rearrangement	yes	unknown		unknown		
+GPR56	0	Foundation	XRN-XMF31N	NOTCH2-GPR56 rearrangement	yes	unknown		unknown		
+FANCI	0	Foundation	XRN-BQMWTE	FANCI-TCRA rearrangement	yes	unknown		unknown		
+TCRA	0	Foundation	XRN-BQMWTE	FANCI-TCRA rearrangement	yes	unknown		unknown		
+TEK	0	Foundation	XRN-C7R703	TEK-intergenic	yes	unknown		unknown		
+TP53BP1	0	Foundation	XRN-C1XTN4	TP53BP1-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-HHGELA	MYB-UTRN fusion	yes	unknown		unknown		
+UTRN	0	Foundation	XRN-HHGELA	MYB-UTRN fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-U70Y23	MYB-HBS1L rearrangement	yes	unknown		unknown		
+HBS1L	0	Foundation	XRN-U70Y23	MYB-HBS1L rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-SY25S2	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-SY25S2	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-WN7QHU	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-WN7QHU	MYB-NFIB fusion	yes	unknown		unknown		
+STAG2	0	Foundation	XRN-AE9M27	STAG2-GTF3C1 truncation	yes	unknown		unknown		
+GTF3C1	0	Foundation	XRN-AE9M27	STAG2-GTF3C1 truncation	yes	unknown		unknown		
+MYB	0	Foundation	XRN-M879KE	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-YUGE2P	MYB-POP1 rearrangement	yes	unknown		unknown		
+POP1	0	Foundation	XRN-YUGE2P	MYB-POP1 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-1TWPKB	MYB-RAD51B rearrangement	yes	unknown		unknown		
+RAD51B	0	Foundation	XRN-1TWPKB	MYB-RAD51B rearrangement	yes	unknown		unknown		
+ROS1	0	Foundation	XRN-M47EU2	ROS1-EPS15 rearrangement	yes	unknown		unknown		
+EPS15	0	Foundation	XRN-M47EU2	ROS1-EPS15 rearrangement	yes	unknown		unknown		
+FAT1	0	Foundation	XRN-MGLRED	FAT1-intragenic	yes	unknown		unknown		
+FGFR1	0	Foundation	XRN-73UN6J	FGFR1-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-NQEY96	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-NQEY96	MYB-NFIB fusion	yes	unknown		unknown		
+MTOR	0	Foundation	XRN-73FKDG	MTOR-intergenic	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-73FKDG	NOTCH1-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-FW5J8Q	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-FW5J8Q	MYB-NFIB fusion	yes	unknown		unknown		
+PTEN	0	Foundation	XRN-CLGCNH	PTEN-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-46AG5V	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-46AG5V	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-JBJH7Q	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-JBJH7Q	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-BQ0CP7	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-BQ0CP7	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-50MLWK	MYB-intragenic	yes	unknown		unknown		
+RAF1	0	Foundation	XRN-GSTXM4	RAF1-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-3X1BSP	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-3X1BSP	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-S8KK62	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-S8KK62	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-XFPB9K	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-XFPB9K	MYB-NFIB fusion	yes	unknown		unknown		
+BLM	0	Foundation	XRN-2R57CH	BLM-ABCB5 rearrangement	yes	unknown		unknown		
+ABCB5	0	Foundation	XRN-2R57CH	BLM-ABCB5 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-NFJ81F	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-NFJ81F	MYB-NFIB fusion	yes	unknown		unknown		
+PIK3R1	0	Foundation	XRN-WSJX76	PIK3R1-intergenic	yes	unknown		unknown		
+EGFR	0	Foundation	XRN-P0HPU4	EGFR-PLXNA4 rearrangement	yes	unknown		unknown		
+PLXNA4	0	Foundation	XRN-P0HPU4	EGFR-PLXNA4 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-5B7ACU	MYB-intragenic	yes	unknown		unknown		
+BCL2	0	Foundation	XRN-4MT5S1	BCL2-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-NNY63K	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-NNY63K	MYB-NFIB fusion	yes	unknown		unknown		
+TSHR	0	Foundation	XRN-727D48	TSHR-intergenic	yes	unknown		unknown		
+JAK1	0	Foundation	XRN-THX7YQ	JAK1-RYR1 fusion	yes	unknown		unknown		
+RYR1	0	Foundation	XRN-THX7YQ	JAK1-RYR1 fusion	yes	unknown		unknown		
+CREBBP	0	Foundation	XRN-LWC2VL	CREBBP-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-T24ERL	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-T24ERL	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-3GWCY7	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-P1Y1F7	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-P1Y1F7	MYB-NFIB fusion	yes	unknown		unknown		
+SMARCA4	0	Foundation	XRN-B0NL8D	SMARCA4-intragenic	yes	unknown		unknown		
+ETV1	0	Foundation	XRN-B0NL8D	ETV1-intergenic	yes	unknown		unknown		
+ROS1	0	Foundation	XRN-K3TXGU	ROS1-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-W4P00D	MYB-HBS1L rearrangement	yes	unknown		unknown		
+HBS1L	0	Foundation	XRN-W4P00D	MYB-HBS1L rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-516FM8	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-516FM8	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-GFAL4S	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-GFAL4S	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-E6VGQX	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-E6VGQX	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-EFX67V	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-EFX67V	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-CJDGK4	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-CJDGK4	MYB-NFIB fusion	yes	unknown		unknown		
+BRAF	0	Foundation	XRN-2WLWBQ	BRAF-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-EYQDV8	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-EYQDV8	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-SPYWP8	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-SPYWP8	MYB-NFIB fusion	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-43GL6X	NOTCH1-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-5C9RS7	MYB-DEPDC1 fusion	yes	unknown		unknown		
+DEPDC1	0	Foundation	XRN-5C9RS7	MYB-DEPDC1 fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-6RTHBV	MYB-LAMA2 rearrangement	yes	unknown		unknown		
+LAMA2	0	Foundation	XRN-6RTHBV	MYB-LAMA2 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-2ES2UE	MYB-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-M2R3EL	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-M2R3EL	MYB-NFIB fusion	yes	unknown		unknown		
+CUL4B	0	Foundation	XRN-M2R3EL	CUL4B-intergenic	yes	unknown		unknown		
+PPP2R1A	0	Foundation	XRN-3ATLFY	PPP2R1A-ZNF610 rearrangement	yes	unknown		unknown		
+ZNF610	0	Foundation	XRN-3ATLFY	PPP2R1A-ZNF610 rearrangement	yes	unknown		unknown		
+KDM6A	0	Foundation	XRN-20ESFY	KDM6A-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-8TRB53	MYB-KANK1 rearrangement	yes	unknown		unknown		
+KANK1	0	Foundation	XRN-8TRB53	MYB-KANK1 rearrangement	yes	unknown		unknown		
+TAF1	0	Foundation	XRN-SKCQS2	TAF1-DMD truncation	yes	unknown		unknown		
+DMD	0	Foundation	XRN-SKCQS2	TAF1-DMD truncation	yes	unknown		unknown		
+IGF1R	0	Foundation	XRN-AWGQFB	IGF1R-intragenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-WJA6SD	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-WJA6SD	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-4Q2GLE	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-4Q2GLE	MYB-NFIB fusion	yes	unknown		unknown		
+ETV6	0	Foundation	XRN-LVEWWB	ETV6-LRP6 rearrangement	yes	unknown		unknown		
+LRP6	0	Foundation	XRN-LVEWWB	ETV6-LRP6 rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-P9FNET	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-P9FNET	MYB-NFIB fusion	yes	unknown		unknown		
+ARID1A	0	Foundation	XRN-2NBJQR	ARID1A-HP1BP3 truncation	yes	unknown		unknown		
+HP1BP3	0	Foundation	XRN-2NBJQR	ARID1A-HP1BP3 truncation	yes	unknown		unknown		
+MYB	0	Foundation	XRN-JM42F2	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-JM42F2	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-G2MHLB	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-G2MHLB	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-7MB9GU	MYB-NFIB rearrangement	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-7MB9GU	MYB-NFIB rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-QCPKUB	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-QCPKUB	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	Foundation	XRN-RXXVRB	MYB-TMEM200A rearrangement	yes	unknown		unknown		
+TMEM200A	0	Foundation	XRN-RXXVRB	MYB-TMEM200A rearrangement	yes	unknown		unknown		
+MYB	0	Foundation	XRN-H6T5KQ	MYB-NFIB rearrangement	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-H6T5KQ	MYB-NFIB rearrangement	yes	unknown		unknown		
+ATM	0	Foundation	XRN-4LBS9R	ATM-TTC28 fusion	yes	unknown		unknown		
+TTC28	0	Foundation	XRN-4LBS9R	ATM-TTC28 fusion	yes	unknown		unknown		
+PHLPP2	0	Foundation	XRN-M4CP40	PHLPP2-PTPRM PHLPP2 rearrangement	yes	unknown		unknown		
+PTPRM	0	Foundation	XRN-M4CP40	PHLPP2-PTPRM PHLPP2 rearrangement	yes	unknown		unknown		
+HLA	0	Foundation	XRN-8LSEGV	HLA-HLA-H fusion	yes	unknown		unknown		
+HLA-H	0	Foundation	XRN-8LSEGV	HLA-HLA-H fusion	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-WHKNQC	NOTCH1-intergenic	yes	unknown		unknown		
+MYB	0	Foundation	XRN-4UT530	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	Foundation	XRN-4UT530	MYB-NFIB fusion	yes	unknown		unknown		
+NOTCH1	0	Foundation	XRN-YNQTF4	NOTCH1-intergenic	yes	unknown		unknown		
+NFE2L2	0	MSKCC-DMP	P-0004887-T01-IM5	ZNF385B-NFE2L2 fusion	yes	unknown		unknown	The NFE2L2 (NM_006164) - ZNF385B (NM_152520) rearrangement: c.123:NFE2L2_c.253+111221:ZNF385Bdup The NFE2L2 (NM_006164) - ZNF385B (NM_152520) rearrangement is a duplication which results in the fusion of exons 1-2 of NFE2L2 with exons 4-10 of ZNF385B. One of the breakpoints is within exon2 of NFE2L2. The functional significance is undetermined.	
+ZNF385B	0	MSKCC-DMP	P-0004887-T01-IM5	ZNF385B-NFE2L2 fusion	yes	unknown		unknown	The NFE2L2 (NM_006164) - ZNF385B (NM_152520) rearrangement: c.123:NFE2L2_c.253+111221:ZNF385Bdup The NFE2L2 (NM_006164) - ZNF385B (NM_152520) rearrangement is a duplication which results in the fusion of exons 1-2 of NFE2L2 with exons 4-10 of ZNF385B. One of the breakpoints is within exon2 of NFE2L2. The functional significance is undetermined.	
+FOXA1	0	MSKCC-DMP	P-0007699-T02-IM5	FOXA1-intragenic	yes	unknown		unknown	FOXA1 (NM_004496) rearrangement: chr14:g.38304410_c.341:FOXA1del The FOXA1 (NM_004496) rearrangement is a deletion of FOXA1 exons 1-2. One of the breakpoints is within exon 2 of FOXA1. The functional significance is undetermined.	
+GREM1	0	MSKCC-DMP	P-0012051-T01-IM5	SECISBP2L-GREM1 fusion	yes	unknown		unknown	GREM1 (NM_013372) rearrangement : c.*3295_chr15:g.49277656inv Note: The GREM1 rearrangement event results in the inversion of the 3 UTR of GREM1. The functional significance of this event is uncertain.	
+SECISBP2L	0	MSKCC-DMP	P-0012051-T01-IM5	SECISBP2L-GREM1 fusion	yes	unknown		unknown	GREM1 (NM_013372) rearrangement : c.*3295_chr15:g.49277656inv Note: The GREM1 rearrangement event results in the inversion of the 3 UTR of GREM1. The functional significance of this event is uncertain.	
+MYB	0	MSKCC-DMP	P-0000202-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000374-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000434-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000717-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000790-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000792-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0000980-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0001034-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0001220-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0001451-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0003111-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0003469-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0003649-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0004186-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0004371-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0005382-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0006518-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0007499-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0007777-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0007849-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0007849-T02-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0009832-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0010663-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0012652-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0013838-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+MYB	0	MSKCC-DMP	P-0014472-T01-IM6	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000202-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000374-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000434-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000717-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000790-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000792-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0000980-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0001034-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0001220-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0001451-T01-IM3	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0003111-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0003469-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0003649-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0004186-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0004371-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0005382-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0006518-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0007499-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0007777-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0007849-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0007849-T02-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0009832-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0010663-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0012652-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0013838-T01-IM5	MYB-NFIB fusion	yes	unknown		unknown		
+NFIB	0	MSKCC-DMP	P-0014472-T01-IM6	MYB-NFIB fusion	yes	unknown		unknown		
